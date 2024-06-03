@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "History",
+    "Description": "History is the study of the past. Events occurring before the invention of writing systems are considered prehistory.",
+    "WeeklyClasses": 2,
+    "Literature": [
+      {
+        "Name": "History 1",
+        "Author": "John Smith",
+        "Year": 2003
+      },
+      {
+        "Name": "History 2",
+        "Author": "Jane Smith",
+        "Year": 2002
+      }
+    ]
+  },
+  {
+    "Name": "Biology",
+    "Description": "Biology is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development, and evolution.",
+    "WeeklyClasses": 3,
+    "Literature": [
+      {
+        "Name": "Biology 1",
+        "Author": "Charles Darwin",
+        "Year": 1859
+      },
+      {
+        "Name": "Biology 2",
+        "Author": "Gregor Mendel",
+        "Year": 1866
+      }
+    ]
+  }
+]
